@@ -1,3 +1,4 @@
+/*±‡≥Ã¡∑œ∞2.12-1*/
 #include <stdio.h>
 int main(void)
 {
@@ -5,6 +6,8 @@ int main(void)
 	printf("Gustav\nMahler\n");
 	printf("Gustav");
 	printf("Mahler");
+
 	getchar();
 	return 0;
+
 }
